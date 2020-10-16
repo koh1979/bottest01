@@ -1,1 +1,1 @@
-web: gunicorn StackpythonChatbot:app --log-file=-
+web: gunicorn stackpythonchatbot:app --log-file=-
